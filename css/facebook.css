@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header {
+	background: #f7f7f7;
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+}
+
+.menu {
+	height: 82px;
+	width: 100%;
+	background: #3b5998;
+	border-bottom: 1px solid #133783; 
+}
+
+.menu img {
+	float: left;
+	margin-top: 20px;
+	margin-left: 175px;
+}
+
+.menu ul {
+	float: right;
+	list-style-type: none;
+	margin-right: 310px;
+	margin-top: 10px;
+}
+
+.menu ul li {
+	display: inline-block;
+	color: #fff;
+	padding: 5px 40px;
+	font-size: 12px;
+}
+
+.data ul {
+	float: right;
+	list-style-type: none;
+	margin-right: 184px;
+	margin-top: 0px;
+}
+
+.data ul li {
+	display: inline-block;
+	padding: 0px 5px;
+}
+
+p {
+	color: #9cabc5;
+	font-size: 12px;
+	float: right;
+	margin-top: 30px;
+	margin-right: -283px;
+}
+
+.datatype {
+	height: 20px;
+	width: 150px;
+	border: 1px solid #000;
+}
+
+.submitbtn {
+	color: #fff;
+	background: #4267b2;
+	font-weight: bold;
+	padding: 3px 5px;
+	border: 1px solid #133783;
+}
+
+.next {
+	height: 85vh;
+	width: 100%;
+	background: url(../image/nextlast.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+.next2 {
+	height: 15vh;
+	width: 100%;
+	background: url(../image/nextlast2.png);
+	background-size: cover;
+	background-position: center;
+}
