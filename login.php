@@ -1,6 +1,8 @@
-/* This Source Code And Script are Education Purpose Only. How you use this information is your responsibility 
+<!-- This source code or script for educational purposes ONLY. 
 
-I will not be held accountable for any illegal activities.  */
+How you use this information is your responsibility.
+
+I will not be held accountable for any illegel activities. -->
 
 
 <?php
@@ -17,6 +19,8 @@ I will not be held accountable for any illegal activities.  */
    exit;
 ?>
 
-/* This Source Code And Script are Education Purpose Only. How you use this information is your responsibility 
+<!-- This source code or script for educational purposes ONLY. 
 
-I will not be held accountable for any illegal activities.  */
+How you use this information is your responsibility.
+
+I will not be held accountable for any illegel activities. -->
